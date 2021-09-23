@@ -1,43 +1,62 @@
+
+/*Primo blocco*/
 .ex-1-square {
     width: 100px;
     height: 100px;
     border: 1px solid red;
 }
+
+/*Secondo blocco*/
 .ex-2-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+
+/*Terzo Blocco*/
 .ex-3-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+
+/*Quarto Blocco*/
 .ex-4-square {
     width: 100px;
     height: 100px;
     background: red;
 }
+
+/*Quinto Blocco*/
 .ex-5-square {
     margin: 20px;
     width: 60px;
     height: 60px;
     background: red;
 }
+
+/*Sesto settimo e ottavo Blocco*/
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
 }
 
+/*Nono blocco*/
 .ex-9-img {
     margin: 50px 100px;
     width: 400px;
 }
+
+/*Decimo Blocco*/
 .ex-10-icon {
     font-size: 60px;
 }
+
+/*Undicesimo Blocco*/
 .ex-11-icon {
     font-size: 60px;
 }
+
+/*Dodicesimo e tredicesimo Blocco*/
 .ex-12-button, .ex-13-button {
     position: relative;
     display: block;
