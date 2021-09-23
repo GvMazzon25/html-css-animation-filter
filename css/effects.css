@@ -26,3 +26,36 @@
 }
 
 /*Quarto Blocco*/
+.ex-4-square{
+    transition: 2s;
+}
+
+.ex-4-square:hover{
+    opacity: 0;
+}
+
+
+/*Quinto Blocco*/
+.ex-5-square {
+    transition: 2s;
+}
+.ex-5-square:hover {
+    transform: scale(2);
+}
+.ex-5-square:active {
+    transform: scale(.5);
+}
+
+/*Sesto blocco*/
+.ex-6-img:hover {
+    filter: grayscale(1)
+}
+
+/*Settimo blocco*/
+.ex-7-img{
+    transition: 2s;
+}
+
+.ex-7-img:hover{
+    filter: sepia(.4) grayscale(.5);
+}
